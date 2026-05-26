@@ -309,19 +309,6 @@ Cette opération supprime les données de test et garantit un environnement prop
 
 ---
 
-# 20. Checklist finale
-
-```text id="fby0zs"
-✓ Périmètre défini
-✓ AVD propre utilisé
-✓ Root obtenu
-✓ Application installée
-✓ Détection root observée
-✓ Logs sauvegardés
-✓ Captures réalisées
-✓ Réinitialisation effectuée
-✓ Aucun compte personnel utilisé
-```
 
 ---
 
