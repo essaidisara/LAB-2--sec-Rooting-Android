@@ -1,7 +1,7 @@
 
 ---
 
-# TP – Rooting Android et Sécurité Mobile
+# lab2– Rooting Android et Sécurité Mobile
 
 # 1. Objectif du TP
 
